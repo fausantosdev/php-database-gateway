@@ -1,5 +1,5 @@
 {
-    "name": "fausantosdev/php-database-getway",
+    "name": "fausantosdev/php-database-gateway",
     "description": "Simple database access layer in PHP using PDO",
     "license": "MIT",
     "authors": [
